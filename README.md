@@ -12,3 +12,9 @@
 - [ ] TCP Client/Server and I/O Multiplexing
 - [ ] UDP Sockets and DNS
 
+## Steps to execute
+
+```bash
+gcc program.c -o build/program
+./build/program <agrument1> <argument2>
+```
