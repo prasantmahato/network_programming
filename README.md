@@ -1,4 +1,4 @@
-# Network Programming
+# Network Programming in C
 
 ## Course Details
 
