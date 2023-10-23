@@ -9,6 +9,6 @@
 
 - [ ] Introduction and Transport Layer
 - [ ] TCP Sockets
-- [ ]TCP Client/Server and I/O Multiplexing
-- [ ]UDP Sockets and DNS
+- [ ] TCP Client/Server and I/O Multiplexing
+- [ ] UDP Sockets and DNS
 
