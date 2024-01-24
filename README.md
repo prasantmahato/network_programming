@@ -7,10 +7,10 @@
 
 ## Topics
 
-- [ ] Introduction and Transport Layer
-- [ ] TCP Sockets
-- [ ] TCP Client/Server and I/O Multiplexing
-- [ ] UDP Sockets and DNS
+- [x] Introduction and Transport Layer
+- [x] TCP Sockets
+- [x] TCP Client/Server and I/O Multiplexing
+- [x] UDP Sockets and DNS
 
 ## Steps to execute
 
